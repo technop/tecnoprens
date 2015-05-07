@@ -19,7 +19,7 @@ A section name must be enclosed by square brackets. The section name is case ins
 [bridge]
 ```
 
-## Entries ##
+## Entries  ##
 An entry is a key-value-pair and must be tied to a section. Both the key and the value are case insensitive. **The key must not start with a SPACE**.
 ```
 [product] # I’m the section
